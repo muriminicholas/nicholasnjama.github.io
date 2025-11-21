@@ -18,7 +18,7 @@ timezone:
 title: "Nicholas M. Njama"  # ← Your name (big hero text)
 tagline: "Cybersecurity Engineer • DevSecOps • Webdeveloper • Ethical hacker and Pentester"  # ← Subtitle/tagline
 description: "Building secure, scalable web applications with Spring Boot and Jakarta EE. Automating everything with Python. Breaking (and fixing) things for a living in cybersecurity."  # ← Short bio under the hero
-avatar: "/assets/img/avatar.png"  # ← Path to your photo (add this file next)
+avatar: "/assets/img/avatar.jpg"  # ← Path to your photo (add this file next)
 
 
 
