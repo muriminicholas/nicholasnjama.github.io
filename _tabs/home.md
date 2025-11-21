@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /          # ← THIS LINE IS THE FIX
 title: Home
 subtitle: "Java Web Developer • Python Automation • Cybersecurity Engineer"
 ---
